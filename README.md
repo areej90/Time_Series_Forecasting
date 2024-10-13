@@ -1,9 +1,8 @@
 # Time Series Forecasting
 
+![Time_Series_Forecasting](images/Time_Series_Forecasting.png)
 
 ## Table of Contents
-
-![Time_Series_Forecasting](images/Time_Series_Forecasting.png)
 
 - [Introduction](#introduction)
 - [Key Concepts](#key-concepts)
